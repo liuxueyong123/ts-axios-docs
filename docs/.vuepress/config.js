@@ -3,6 +3,7 @@ module.exports = {
   dest: 'dist',
   title: 'TypeScript 从零实现 axios',
   description: '学习使用 TypeScript 从零实现 axios 库',
+  port: 9000,
   themeConfig: {
     editLinks: false,
     docsDir: 'docs',
