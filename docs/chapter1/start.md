@@ -1,5 +1,3 @@
-# itjc8.com收集整理
-
 # 编写第一个 TypeScript 程序
 
 在编辑器，将下面的代码输入到 greeter.ts 文件里：
